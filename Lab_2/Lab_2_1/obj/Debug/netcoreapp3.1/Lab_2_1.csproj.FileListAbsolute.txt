@@ -1,0 +1,14 @@
+C:\Users\Алиса\source\repos\2 term\Lab_2\bin\Debug\netcoreapp3.1\Lab_2_1.exe
+C:\Users\Алиса\source\repos\2 term\Lab_2\bin\Debug\netcoreapp3.1\Lab_2_1.deps.json
+C:\Users\Алиса\source\repos\2 term\Lab_2\bin\Debug\netcoreapp3.1\Lab_2_1.runtimeconfig.json
+C:\Users\Алиса\source\repos\2 term\Lab_2\bin\Debug\netcoreapp3.1\Lab_2_1.runtimeconfig.dev.json
+C:\Users\Алиса\source\repos\2 term\Lab_2\bin\Debug\netcoreapp3.1\Lab_2_1.dll
+C:\Users\Алиса\source\repos\2 term\Lab_2\bin\Debug\netcoreapp3.1\Lab_2_1.pdb
+C:\Users\Алиса\source\repos\2 term\Lab_2\obj\Debug\netcoreapp3.1\Lab_2_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алиса\source\repos\2 term\Lab_2\obj\Debug\netcoreapp3.1\Lab_2_1.AssemblyInfoInputs.cache
+C:\Users\Алиса\source\repos\2 term\Lab_2\obj\Debug\netcoreapp3.1\Lab_2_1.AssemblyInfo.cs
+C:\Users\Алиса\source\repos\2 term\Lab_2\obj\Debug\netcoreapp3.1\Lab_2_1.csproj.CoreCompileInputs.cache
+C:\Users\Алиса\source\repos\2 term\Lab_2\obj\Debug\netcoreapp3.1\Lab_2_1.dll
+C:\Users\Алиса\source\repos\2 term\Lab_2\obj\Debug\netcoreapp3.1\Lab_2_1.pdb
+C:\Users\Алиса\source\repos\2 term\Lab_2\obj\Debug\netcoreapp3.1\Lab_2_1.genruntimeconfig.cache
+C:\Users\Алиса\source\repos\2 term\Lab_2\obj\Debug\netcoreapp3.1\Lab_2_1.csproj.AssemblyReference.cache
